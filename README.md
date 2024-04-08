@@ -44,8 +44,3 @@
 <img src="img/43.jpg">
 <img src="img/44.jpg">
 <img src="img/45.jpg">
-<img src="img/46.jpg">
-<img src="img/47.jpg">
-<img src="img/48.jpg">
-<img src="img/49.jpg">
-<img src="img/50.jpg">
